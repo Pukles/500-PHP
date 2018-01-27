@@ -21,5 +21,5 @@ print_r($_POST);
       echo "O resultado da opera&ccedil;&atilde;o &eacute;: $c";
    }
 
-  
+
 
