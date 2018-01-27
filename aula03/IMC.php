@@ -7,8 +7,8 @@
 <link href="enc/estilo.css" rel="stylesheet" type="text/css">
 </head>
 
-<body>
-<!--Content-->
+<body> 
+
 <div id="content">
     <!--Logo-->
     <div id="logo">
@@ -23,15 +23,13 @@
             <fieldset class="f">
             	
                 <label>
-                <span class="span">Seu Peso</span>
-                <br/>
+                <h1 style="border: 2px solid Tomato;">Seu peso</h1>
                 <input type="text" name="peso" class="in" />
                 </label>
                 
                 <br />
                 <label>
-                <span class="span">Sua Altura (Use Pontuação: 1.99 Em METROS)</span>
-                <br/>
+                <h1 style="border: 2px solid Tomato;">Sua altura</h1>
                 <input type="text" name="altura" class="in"/>
                 </label>
                 
